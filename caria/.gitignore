@@ -1,0 +1,14 @@
+node_modules/
+build/
+# .env
+__pycache__/
+# *.db
+# caria.db
+venv/
+.vscode/
+.idea/
+# Ignore expectation scripts
+*.exp
+backend/static/uploads/
+*.backup*
+backend/static/uploads/

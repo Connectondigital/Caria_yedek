@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/admin/static/css/main.8371a1da.css",
+    "main.js": "/admin/static/js/main.9cc6686a.js",
+    "static/media/caria-logo.png": "/admin/static/media/caria-logo.01061165ea9913cb405b.png",
+    "static/media/auth.png": "/admin/static/media/auth.20d5979b439e1531640d.png",
+    "static/media/Navbar.png": "/admin/static/media/Navbar.f96a9f58c491b9acda99.png",
+    "static/media/avatar4.png": "/admin/static/media/avatar4.54d5c1de851c273b2cd9.png",
+    "index.html": "/admin/index.html",
+    "static/media/checked.svg": "/admin/static/media/checked.eebdda355aff27593261.svg",
+    "main.8371a1da.css.map": "/admin/static/css/main.8371a1da.css.map",
+    "main.9cc6686a.js.map": "/admin/static/js/main.9cc6686a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8371a1da.css",
+    "static/js/main.9cc6686a.js"
+  ]
+}
